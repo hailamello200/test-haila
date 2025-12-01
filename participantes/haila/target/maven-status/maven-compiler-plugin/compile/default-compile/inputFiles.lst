@@ -1,0 +1,13 @@
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/ParticipantsApplication.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/controller/ClienteController.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/dto/ExtratoDTO.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/dto/SaldoDTO.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/dto/TransacaoExtratoDTO.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/dto/TransacaoRequestDTO.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/dto/TransacaoResponseDTO.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/entity/Cliente.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/entity/Transacao.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/enums/Tipo.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/repository/ClienteRepository.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/repository/TransacaoRepository.java
+/home/celk/projetos/projetosPessoais/participants/src/main/java/com/participants/demo/service/ClienteService.java
